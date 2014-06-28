@@ -66,12 +66,13 @@ ul.projects
 
 .microbrowser a
 {
-	background: #ffe0b2;
+	background: #ffccbc;
 }
 
 .microbrowser a:hover
 {
-	background: #ff9800;
+	background: #ff5722;
+	color: #fff;
 }
 
 .entangle a
