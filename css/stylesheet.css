@@ -114,6 +114,7 @@ ul.projects
 	margin-top: 100px;
 	background: #eee;
 	padding: 50px 100px;
+	opacity: 0.87;
 }
 
 .footer ul.links
@@ -121,7 +122,6 @@ ul.projects
 	float: right;
 	list-style: none;
 	padding-left: 0;
-	opacity: 0.87;
 }
 
 .footer .links li
@@ -141,7 +141,7 @@ ul.projects
 	content: "\00b7";
 }
 
-.footer .links a
+.footer a
 {
 	color: #000;
 	text-decoration: none;
