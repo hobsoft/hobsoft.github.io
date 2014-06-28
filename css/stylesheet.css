@@ -66,24 +66,22 @@ ul.projects
 
 .microbrowser a
 {
-	background: #d0d9ff;
+	background: #ffe0b2;
 }
 
 .microbrowser a:hover
 {
-	background: #2a36b1;
-	color: #fff;
+	background: #ff9800;
 }
 
 .entangle a
 {
-	background: #ffccbc;
+	background: #fff9c4;
 }
 
 .entangle a:hover
 {
-	background: #ff5722;
-	color: #fff;
+	background: #ffeb3b;
 }
 
 .symmetry a
