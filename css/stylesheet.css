@@ -44,17 +44,9 @@ ul.projects
 	padding-left: 0;
 }
 
-ul.projects:after
-{
-	clear: left;
-	display: block;
-	content: "";
-}
-
 .projects li
 {
-	float: left;
-	margin-right: 3px;
+	display: inline;
 }
 
 .projects a
