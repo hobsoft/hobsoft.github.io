@@ -11,14 +11,14 @@ body, h1
 	font-weight: 400;
 }
 
-.header
+header
 {
 	margin-bottom: 75px;
 	background: #eee;
 	padding: 25px 100px;
 }
 
-.header h1
+header h1
 {
 	margin: 0;
 	font-size: 56px;
@@ -37,7 +37,7 @@ body, h1
 	opacity: 0.54;
 }
 
-.footer
+footer
 {
 	margin-top: 100px;
 	background: #eee;
@@ -45,37 +45,37 @@ body, h1
 	opacity: 0.87;
 }
 
-.footer ul.links
+footer ul.links
 {
 	float: right;
 	list-style: none;
 	padding-left: 0;
 }
 
-.footer .links li
+footer .links li
 {
 	display: inline;
 	padding-right: 5px;
 }
 
-.footer .links li:first-child:before
+footer .links li:first-child:before
 {
 	content: none;
 }
 
-.footer .links li:before
+footer .links li:before
 {
 	padding-right: 5px;
 	content: "\00b7";
 }
 
-.footer a
+footer a
 {
 	color: #000;
 	text-decoration: none;
 }
 
-.footer a:hover
+footer a:hover
 {
 	text-decoration: underline;
 }
