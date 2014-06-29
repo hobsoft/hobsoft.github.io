@@ -11,6 +11,16 @@ body, h1
 	font-weight: 400;
 }
 
+a
+{
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
 header
 {
 	margin-bottom: 75px;
@@ -72,10 +82,4 @@ footer li:before
 footer a
 {
 	color: #000;
-	text-decoration: none;
-}
-
-footer a:hover
-{
-	text-decoration: underline;
 }
