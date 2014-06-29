@@ -45,25 +45,25 @@ footer
 	opacity: 0.87;
 }
 
-footer ul.links
+footer ul
 {
 	float: right;
 	list-style: none;
 	padding-left: 0;
 }
 
-footer .links li
+footer li
 {
 	display: inline;
 	padding-right: 5px;
 }
 
-footer .links li:first-child:before
+footer li:first-child:before
 {
 	content: none;
 }
 
-footer .links li:before
+footer li:before
 {
 	padding-right: 5px;
 	content: "\00b7";
